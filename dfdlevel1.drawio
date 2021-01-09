@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T05:37:36.936Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bf_WrDI-I5nDmVBOM1VB" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T07:00:56.882Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dhfALbzZISY-d7PDKRP0" version="14.1.8" type="github">
   <diagram id="NAClemnxe9k5_DulbnDW" name="Page-1">
     <mxGraphModel dx="744" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,17 +127,11 @@
         <mxCell id="P4pWDxnC0j29xjnh4VQj-53" value="Ask Information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="504" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4pWDxnC0j29xjnh4VQj-56" value="provide drowsiness information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="580" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="P4pWDxnC0j29xjnh4VQj-57" value="" style="endArrow=classic;html=1;exitX=0.625;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.417;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P4pWDxnC0j29xjnh4VQj-46" target="P4pWDxnC0j29xjnh4VQj-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="430" as="sourcePoint" />
             <mxPoint x="600" y="380" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="P4pWDxnC0j29xjnh4VQj-58" value="provides drowsiness status in android system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4pWDxnC0j29xjnh4VQj-60" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P4pWDxnC0j29xjnh4VQj-1" target="P4pWDxnC0j29xjnh4VQj-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,6 +141,12 @@
         </mxCell>
         <mxCell id="P4pWDxnC0j29xjnh4VQj-62" value="Provides drowsiness status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4pWDxnC0j29xjnh4VQj-64" value="Drowsy status &amp;amp; &lt;br&gt;push notifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="585" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4pWDxnC0j29xjnh4VQj-65" value="Drowsy status &amp;amp; &lt;br&gt;push notifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="340" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
