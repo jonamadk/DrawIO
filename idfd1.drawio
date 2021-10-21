@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T06:44:42.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="pFE-hLdkFnSWHtbugQZp" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T06:49:52.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ieSda8WNGFveM6OCj3su" version="15.5.6" type="github">
   <diagram id="hylY_uPxdQpW8fuP7KE9" name="Page-1">
     <mxGraphModel dx="1019" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="ZZFL385WuHnoUpsG8bzU-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=90;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
           <mxGeometry x="323.13" y="400" width="32.5" height="98.75" as="geometry" />
         </mxCell>
-        <mxCell id="ZZFL385WuHnoUpsG8bzU-6" value="&lt;b&gt;Campaign Database&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
-          <mxGeometry x="309.38" y="434.38" width="60" height="30" as="geometry" />
+        <mxCell id="ZZFL385WuHnoUpsG8bzU-6" value="&lt;b&gt;Campaign &amp;amp; Target user Database&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
+          <mxGeometry x="284.07" y="434.37" width="120.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZFL385WuHnoUpsG8bzU-7" value="&lt;b&gt;System User&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
           <mxGeometry x="55" y="278.75" width="105" height="32.5" as="geometry" />
@@ -136,8 +136,8 @@
         <mxCell id="ZZFL385WuHnoUpsG8bzU-43" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=90;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
           <mxGeometry x="327.5" y="670" width="32.5" height="98.75" as="geometry" />
         </mxCell>
-        <mxCell id="ZZFL385WuHnoUpsG8bzU-45" value="&lt;span&gt;&lt;b&gt;Target User database&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
-          <mxGeometry x="298" y="704.38" width="87" height="30" as="geometry" />
+        <mxCell id="ZZFL385WuHnoUpsG8bzU-45" value="&lt;span&gt;&lt;b&gt;Target user Log&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZZFL385WuHnoUpsG8bzU-66">
+          <mxGeometry x="284.07" y="704.37" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZFL385WuHnoUpsG8bzU-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZZFL385WuHnoUpsG8bzU-66" source="ZZFL385WuHnoUpsG8bzU-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
