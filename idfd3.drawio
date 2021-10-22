@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T03:01:27.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.8" etag="yZJ4Y76uNML-lM69ZTGh" type="github"><diagram id="VWlvn-uSieDfxg0K5ib8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-22T03:19:41.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="H1vmTpcgizk2NfNbY_M8" version="15.5.8" type="github">
+  <diagram id="VWlvn-uSieDfxg0K5ib8" name="Page-1">
+    <mxGraphModel dx="1019" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-1" value="&lt;b&gt;2.3.1 Schedule campaign date &amp;amp; time&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-2" value="&lt;b&gt;2.3.2 Run Async. Scheduler&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-3" value="&lt;b&gt;2.3.3 &lt;br&gt;Check scheduled date with date today&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZBd1lbyZJ-XJKjYubNN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZBd1lbyZJ-XJKjYubNN-1" target="hZBd1lbyZJ-XJKjYubNN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="180" as="sourcePoint" />
+            <mxPoint x="500" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="214.5" as="sourcePoint" />
+            <mxPoint x="320" y="214.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.589;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hZBd1lbyZJ-XJKjYubNN-2" target="hZBd1lbyZJ-XJKjYubNN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="330" as="sourcePoint" />
+            <mxPoint x="598" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-8" value="template &amp;amp; target user data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-9" value="scheduled date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-10" value="Asynchrnonous&lt;br&gt;scheduler running" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-11" value="send email&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZBd1lbyZJ-XJKjYubNN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZBd1lbyZJ-XJKjYubNN-11" target="hZBd1lbyZJ-XJKjYubNN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
