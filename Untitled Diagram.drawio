@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T15:29:13.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.5.8" etag="QCAR4pwFtw-KGZpm_8oQ" type="github"><diagram id="lJC1QuVzAbhBSIZx3Hm1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T17:08:12.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7ay5TC7krRIYwvPfPQN1" version="15.5.8" type="github">
+  <diagram id="lJC1QuVzAbhBSIZx3Hm1" name="Page-1">
+    <mxGraphModel dx="1103" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-6" value="Valid credentials" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-7" value="Campaign Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-8" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-9" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-10" value="Template Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="290" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-12" value="Target-user Group Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-14" value="Dashboard Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-15" value="&lt;br&gt;Report Page&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Dashboard%20Page%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3BstrokeWidth%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%22290%22%20width%3D%2290%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Dashboard%20Page%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3BstrokeWidth%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%22290%22%20width%3D%2290%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-16" value="Quit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-18" value="Add target user in created group" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-19" value="Create dynamic&amp;nbsp;&lt;br&gt;template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-21" value="Create and send/schedule campaign" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-22" value="Campaign data visualization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-23" value="Target user report" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-26" value="IF&amp;nbsp; create group" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-27" value="IF create template" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-28" value="IF create template" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YmnMS3fJjvEk6rEsooEI-7" target="YmnMS3fJjvEk6rEsooEI-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-31" value="User Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-32" value="IF clicked" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-34" value="IF clicked" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
