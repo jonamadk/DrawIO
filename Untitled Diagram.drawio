@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T03:36:47.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tyc_2bC2okIvzNWnpq-p" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T03:37:08.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="erMYZjahShR4yUupjzN1" version="15.5.8" type="github">
   <diagram id="lJC1QuVzAbhBSIZx3Hm1" name="Page-1">
     <mxGraphModel dx="1103" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,13 +79,13 @@
         <mxCell id="YmnMS3fJjvEk6rEsooEI-40" value="Assign Permission Group" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="609" y="618" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YmnMS3fJjvEk6rEsooEI-42" value="check schedule&amp;nbsp;&lt;br&gt;date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-42" value="Check schedule&amp;nbsp;&lt;br&gt;date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="590" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmnMS3fJjvEk6rEsooEI-43" value="IF matches current date" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YmnMS3fJjvEk6rEsooEI-44" value="send phishing email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="YmnMS3fJjvEk6rEsooEI-44" value="Send phishing email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="685" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmnMS3fJjvEk6rEsooEI-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
