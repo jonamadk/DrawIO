@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T20:17:04.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zuWLO3L4DI-Z-nev3GCh" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T20:23:56.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KLqxLKcWbTIFreGgAd55" version="22.0.7" type="github">
   <diagram name="Page-1" id="QbD5gItd04JdlI4iajtJ">
     <mxGraphModel dx="954" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,6 +109,27 @@
         </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-56" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;fontStyle=0;fontColor=#ffffff;align=center;verticalAlign=middle;strokeColor=#aaeeff;fillColor=#aaeeff;" vertex="1" parent="1">
           <mxGeometry x="717" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-311" value="Message Box View" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="254" y="550" width="180" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-308" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-315" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_5;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="826" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-316" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Sprint Planning&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="646" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-317" value="" style="rounded=1;whiteSpace=wrap;html=1;fillOpacity=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="184" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-318" value="Back" style="rounded=1;fillColor=#a20025;align=center;strokeColor=#6F0000;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-319" value="Send Message" style="rounded=1;fillColor=#008a00;align=center;strokeColor=#005700;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="361.5" y="770" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
