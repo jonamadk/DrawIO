@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T22:46:30.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YCx5rn2Z8RpZ35i37QrS" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T22:49:53.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CYIaZz2KHWGGG0_badz3" version="22.0.7" type="github">
   <diagram name="Page-1" id="QbD5gItd04JdlI4iajtJ">
-    <mxGraphModel dx="954" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="8eNk41pY3GWttztsv3cm-3" value="Inbox" style="rounded=1;fillColor=#647687;align=center;strokeColor=#314354;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;glass=1;shadow=1;" vertex="1" parent="yY3OAITSGwV4JBIxrEt0-42">
           <mxGeometry x="60" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-17" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;TextFlow&lt;/b&gt;" style="rounded=1;fillColor=#a20025;align=center;strokeColor=#6F0000;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;opacity=0;" vertex="1" parent="yY3OAITSGwV4JBIxrEt0-42">
+          <mxGeometry x="10" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,14 +107,14 @@
         <mxCell id="yY3OAITSGwV4JBIxrEt0-303" value="..............................." style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;whiteSpace=wrap;" parent="yY3OAITSGwV4JBIxrEt0-301" vertex="1">
           <mxGeometry y="40" width="185" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TextFlow&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;glass=1;" vertex="1" parent="yY3OAITSGwV4JBIxrEt0-44">
+          <mxGeometry x="65" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="380" y="40" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="yY3OAITSGwV4JBIxrEt0-56" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;fontStyle=0;fontColor=#ffffff;align=center;verticalAlign=middle;strokeColor=#aaeeff;fillColor=#aaeeff;" parent="1" vertex="1">
-          <mxGeometry x="717" y="180" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-311" value="Message Box View" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="254" y="550" width="180" height="16.88" as="geometry" />
+          <mxGeometry x="254" y="567" width="180" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-308" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="240" y="500" width="200" height="390" as="geometry" />
@@ -174,6 +177,9 @@
         </mxCell>
         <mxCell id="8eNk41pY3GWttztsv3cm-16" value="Main &lt;br&gt;Flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="483" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TextFlow&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="537" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
