@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T22:40:03.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="i_XyV2ZZAmP1kRVlw9ly" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T22:45:34.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L6FqoU-jvDHFGnvWVtnx" version="22.0.7" type="github">
   <diagram name="Page-1" id="QbD5gItd04JdlI4iajtJ">
     <mxGraphModel dx="954" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="yY3OAITSGwV4JBIxrEt0-293" value="Create Message" style="rounded=1;fillColor=#008a00;align=center;strokeColor=#005700;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" parent="yY3OAITSGwV4JBIxrEt0-44" vertex="1">
           <mxGeometry x="110" y="284" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yY3OAITSGwV4JBIxrEt0-298" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Add Users&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#596780;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="yY3OAITSGwV4JBIxrEt0-44" vertex="1">
-          <mxGeometry x="10" y="150" width="180" height="40" as="geometry" />
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-298" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Add Users&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#647687;strokeColor=#314354;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;strokeWidth=2;glass=1;shadow=1;" parent="yY3OAITSGwV4JBIxrEt0-44" vertex="1">
+          <mxGeometry x="10" y="160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-301" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.split_action_bar;fillColor=#E6E6E6;" parent="yY3OAITSGwV4JBIxrEt0-44" vertex="1">
           <mxGeometry x="10" y="80" width="185" height="70" as="geometry" />
@@ -131,7 +131,7 @@
         <mxCell id="yY3OAITSGwV4JBIxrEt0-319" value="Send Message" style="rounded=1;fillColor=#008a00;align=center;strokeColor=#005700;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="361.5" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yY3OAITSGwV4JBIxrEt0-320" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.657;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yY3OAITSGwV4JBIxrEt0-293" target="yY3OAITSGwV4JBIxrEt0-308" edge="1">
+        <mxCell id="yY3OAITSGwV4JBIxrEt0-320" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.657;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8eNk41pY3GWttztsv3cm-14" target="yY3OAITSGwV4JBIxrEt0-308" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="530" as="sourcePoint" />
             <mxPoint x="560" y="480" as="targetPoint" />
@@ -151,6 +151,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-11" value="Alternative Flow: I go back from Message Box view&lt;br&gt;to Group Creation Dialogue&lt;br&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yY3OAITSGwV4JBIxrEt0-324">
+          <mxGeometry x="0.3085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yY3OAITSGwV4JBIxrEt0-325" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.987;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yY3OAITSGwV4JBIxrEt0-277" target="yY3OAITSGwV4JBIxrEt0-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="330" as="sourcePoint" />
@@ -160,6 +165,22 @@
               <mxPoint x="290" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-12" value="Alternative: I exit from&lt;br&gt;&amp;nbsp;receiver &lt;br&gt;group creation &lt;br&gt;dialogue box&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-13" value="Main Flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.657;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yY3OAITSGwV4JBIxrEt0-293" target="8eNk41pY3GWttztsv3cm-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536" y="334" as="sourcePoint" />
+            <mxPoint x="440" y="569" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8eNk41pY3GWttztsv3cm-14" value="Main Flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
