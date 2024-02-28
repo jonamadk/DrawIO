@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T23:49:13.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PNnBZZpuBi1j3tlQ0Ehs" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T00:26:52.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LIf2DYZG7uMfQxdY5OrC" version="23.1.7" type="github">
   <diagram name="Page-1" id="6et_J9E4sg6bof_DBtYU">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="UqALLDtSSZnSQeG7DkNx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="UqALLDtSSZnSQeG7DkNx-99" vertex="1">
           <mxGeometry x="120" y="154" width="330" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="UqALLDtSSZnSQeG7DkNx-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="UqALLDtSSZnSQeG7DkNx-99" vertex="1">
+        <mxCell id="UqALLDtSSZnSQeG7DkNx-6" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="UqALLDtSSZnSQeG7DkNx-99" vertex="1">
           <mxGeometry x="232" y="24" width="106" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UqALLDtSSZnSQeG7DkNx-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" parent="UqALLDtSSZnSQeG7DkNx-99" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="UqALLDtSSZnSQeG7DkNx-10" value="PCA" style="rounded=0;whiteSpace=wrap;html=1;" parent="UqALLDtSSZnSQeG7DkNx-14" vertex="1">
           <mxGeometry y="43" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="UqALLDtSSZnSQeG7DkNx-11" value="Recursive Feature Elimination" style="rounded=0;whiteSpace=wrap;html=1;" parent="UqALLDtSSZnSQeG7DkNx-14" vertex="1">
+        <mxCell id="UqALLDtSSZnSQeG7DkNx-11" value="RFE" style="rounded=0;whiteSpace=wrap;html=1;" parent="UqALLDtSSZnSQeG7DkNx-14" vertex="1">
           <mxGeometry x="14" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UqALLDtSSZnSQeG7DkNx-15" value="&lt;b&gt;Feature Engineering&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UqALLDtSSZnSQeG7DkNx-99" vertex="1">
