@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T02:01:25.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yl32RXUujjD9c4CCeYgu" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T02:02:20.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ORG9RhqKm-8J3zQBIpwL" version="24.3.1" type="github">
   <diagram name="Page-1" id="S1XU-4v1I7LBTx95V1RZ">
     <mxGraphModel dx="1718" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -750,9 +750,6 @@
             <mxPoint x="740" y="3340" as="sourcePoint" />
             <mxPoint x="790" y="3290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fIvYG_3jWhWfDDmJpI7t-198" value="getbook(title, internal_search_status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="2840" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIvYG_3jWhWfDDmJpI7t-199" value="searchebook= search_book_external&lt;div&gt;(title)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="3290" width="100" height="30" as="geometry" />
