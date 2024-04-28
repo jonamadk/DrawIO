@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T17:54:02.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Y-2BNeT_BoUCUXJgHn1R" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-28T18:39:55.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fDIv__OFbfQGrNb1Luem" version="24.3.1" type="github" pages="3">
   <diagram name="Page-1" id="S1XU-4v1I7LBTx95V1RZ">
     <mxGraphModel dx="1434" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -548,7 +548,7 @@
             <mxPoint x="605" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HmxTXp7PyrMYpECgWIuF-21" value="msg:String&amp;lt;Message&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="HmxTXp7PyrMYpECgWIuF-1" vertex="1">
+        <mxCell id="HmxTXp7PyrMYpECgWIuF-21" value="msg:Map&amp;lt;String, String&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="HmxTXp7PyrMYpECgWIuF-1" vertex="1">
           <mxGeometry x="542" y="360" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HmxTXp7PyrMYpECgWIuF-22" value="2.1msg_is = findMsg(status_code)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="HmxTXp7PyrMYpECgWIuF-1" vertex="1">
