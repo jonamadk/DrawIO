@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="ibU63S71F5f9mqeSKste">
-    <mxGraphModel dx="1080" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jtmtclb_w1RMz-2mAQgD-37" value="item" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="30" width="106" height="30" as="geometry" />
+          <mxGeometry x="349" y="36" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jtmtclb_w1RMz-2mAQgD-38" value="position = -1,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;left = 0,&lt;/span&gt;&lt;div&gt;right = NumberOfStrings - 1,&lt;/div&gt;&lt;div&gt;found = false,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;middle&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="110" width="170" height="40" as="geometry" />
@@ -81,8 +81,8 @@
         </mxCell>
         <mxCell id="Jtmtclb_w1RMz-2mAQgD-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399.43" y="70" as="sourcePoint" />
-            <mxPoint x="399.43" y="110" as="targetPoint" />
+            <mxPoint x="399" y="68" as="sourcePoint" />
+            <mxPoint x="399.43" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jtmtclb_w1RMz-2mAQgD-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.423;entryY=-0.157;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Jtmtclb_w1RMz-2mAQgD-39">
