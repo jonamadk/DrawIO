@@ -215,6 +215,9 @@
         <mxCell id="Jtmtclb_w1RMz-2mAQgD-106" value="9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="616" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Jtmtclb_w1RMz-2mAQgD-107" value="10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="313" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
